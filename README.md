@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amstfn
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning php
+- 👋 Hi! I’m Amir Sefidgar.
+- I'm little curious to find out how it would be if I become a front-end developer!
+- 🌱currently learning css,html and js.
 - 📫 How to reach me amirshahanaqi@gmail.com
 
 <!---
